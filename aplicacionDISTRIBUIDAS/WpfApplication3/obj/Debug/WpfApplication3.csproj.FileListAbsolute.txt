@@ -1,0 +1,616 @@
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Voice.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Agent.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Tomers.WPF.Localization.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Lucene.Net.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\log4net.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Model.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Core.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\DirectShowLib-2005.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Core.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\NHunspell.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Logger.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Utility.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\TIPIFICACIONES\MySampleButtonView.baml
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\TIPIFICACIONES\MySampleView.baml
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\TIPIFICACIONES\MySampleButtonView.g.cs
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\TIPIFICACIONES\MySampleView.g.cs
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\esteban\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Window1.baml
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Window1.g.cs
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AREAS\SMAPA\CustomSmapa.baml
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AREAS\SMAPA\CustomSmapa.g.cs
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AREAS\SALUD\CustomSalud.baml
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\AREAS\SALUD\CustomSalud.g.cs
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Page1.baml
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\Page1.g.cs
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.baml
+C:\Users\esteban\Documents\Visual Studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.g.cs
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Voice.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Agent.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Tomers.WPF.Localization.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Lucene.Net.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\log4net.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Model.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Core.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\DirectShowLib-2005.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Core.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\NHunspell.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Logger.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Utility.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Page1.baml
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.baml
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Page1.g.cs
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.g.cs
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Window1.g.cs
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\Window1.baml
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\AREAS\LC_PERU\LC_PERU_custom.g.cs
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\AREAS\LC_PERU\LC_PERU_custom.baml
+C:\Users\esteban\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\Page1.baml
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\Page1.g.cs
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\AREAS\OIRS\mma_oirs.g.cs
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\Window1.g.cs
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Voice.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Agent.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Tomers.WPF.Localization.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Lucene.Net.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\log4net.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Model.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Core.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\DirectShowLib-2005.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Core.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\NHunspell.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Logger.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Utility.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.baml
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.g.cs
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\AREAS\OIRS\mma_oirs.baml
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\Window1.baml
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\AREAS\MMA_RETC\mma_retc.g.cs
+C:\Users\esteban\Desktop\Workspace LCPeru\WpfApplication3\obj\Debug\AREAS\MMA_RETC\mma_retc.baml
+C:\Users\esteban\Desktop\Workspace MMA\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\esteban\Desktop\Workspace MMA\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\esteban\Desktop\Workspace MMA\WpfApplication3\obj\Debug\WpfApplication3.pdb
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3.exe
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3.pdb
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\WpfApplication3.exe
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\WpfApplication3.pdb
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Lucene.Net.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\log4net.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Model.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Core.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\DirectShowLib-2005.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Core.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\NHunspell.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\ICSharpCode.SharpZipLib.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Logger.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Utility.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\Page1.baml
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.baml
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\AREAS\MMA_RETC\mma_retc.g.cs
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\Page1.g.cs
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\AREAS\OIRS\mma_oirs.g.cs
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.g.cs
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\Window1.g.cs
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\App.g.cs
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\AREAS\MMA_RETC\mma_retc.baml
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\AREAS\OIRS\mma_oirs.baml
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\Window1.baml
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+Z:\Proyectos Workspace\Workspace Ministerio Medio Ambiente\aplicacionMMA\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.baml
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\GUIusuario.g.cs
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\UTILIDADES\Multiselect.g.cs
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\App.g.cs
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\bin\Debug\WpfApplication3.exe
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\bin\Debug\WpfApplication3.pdb
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\GUIusuario.baml
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.exe
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.pdb
+Z:\Proyectos Workspace\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\bin\Debug\WpfApplication3.exe
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\AREAS\PROVIDA_CAMPANAS\PROVIDA_CAMPANAS.baml
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\AREAS\PROVIDA_PERSONAS\PROVIDA_PERSONAS.baml
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\GUIusuario.baml
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\Resources\StyleGeneralCustomizado.baml
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\Resources\Styles\StyleGeneralCustomizado.baml
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\Resources\Styles\StyleGrilla.baml
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\Resources\Styles\StyleScrollGrilla.baml
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\AREAS\PROVIDA_CAMPANAS\PROVIDA_CAMPANAS.g.cs
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\AREAS\PROVIDA_PERSONAS\PROVIDA_PERSONAS.g.cs
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\GUIusuario.g.cs
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\App.g.cs
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.exe
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.pdb
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\bin\Debug\WpfApplication3.pdb
+Z:\Workspace La Florida\aplicacionMLF\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+Z:\aplicacionInchcape\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\WpfApplication3.exe
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\WpfApplication3.pdb
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\GUIusuario.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\Resources\StyleGeneralCustomizado.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\Resources\Styles\StyleGeneralCustomizado.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\Resources\Styles\StyleGrilla.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\Resources\Styles\StyleScrollGrilla.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\GUIusuario.g.cs
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\App.g.cs
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+Z:\aplicacionInchcape\WpfApplication3\bin\Debug\WpfApplication3.exe
+Z:\aplicacionInchcape\WpfApplication3\bin\Debug\WpfApplication3.pdb
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.g.cs
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl1.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl1.g.cs
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl2.baml
+Z:\aplicacionInchcape\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl2.g.cs
+C:\Users\Davic\Desktop\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Davic\Desktop\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Davic\Desktop\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl1.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl2.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\GUIusuario.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\StyleGeneralCustomizado.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleGeneralCustomizado.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleGrilla.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleScrollGrilla.baml
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.g.cs
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl1.g.cs
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl2.g.cs
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\GUIusuario.g.cs
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Lucene.Net.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\log4net.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Model.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Core.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Core.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\NHunspell.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Logger.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Utility.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Voice.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Agent.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Davic\Desktop\WorkspaceCSANPABLO\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Tomers.WPF.Localization.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl1.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl2.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\GUIusuario.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\StyleGeneralCustomizado.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleGeneralCustomizado.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleGrilla.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleScrollGrilla.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.g.cs
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl1.g.cs
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\UserControl2.g.cs
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\GUIusuario.g.cs
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Infrastructure.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Core.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Voice.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.Modules.Windows.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Desktop.WPFCommon.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Agent.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Composite.Wpf.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Tomers.WPF.Localization.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Lucene.Net.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\log4net.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Model.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Core.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Core.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\NHunspell.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Logger.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Utility.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\VerContrato.baml
+C:\Users\Davic\Desktop\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\VerContrato.g.cs
+C:\Users\Walter\Desktop\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Walter\Desktop\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Walter\Desktop\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Lucene.Net.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\log4net.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.ConfigurationObjectModel.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Configuration.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Model.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Core.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Outbound.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Connection.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.WarmStandby.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Broker.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.ApplicationBlocks.Commons.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Presence.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Reporting.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\DirectShowLib-2005.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Exceptions.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Core.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Extensions.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Multimedia.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Interaction.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.StateMachine.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.OpenMedia.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.SwitchAbstraction.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Voice.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Contact.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\NHunspell.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Logger.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Utility.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.SwitchPolicy.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Framework.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Management.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.WebMedia.Protocols.EspEmail.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Outbound.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Contacts.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Routing.Protocols.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Platform.Commons.Collections.Binding.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Genesyslab.Enterprise.Services.Common.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.baml
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\VerContrato.baml
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\GUIusuario.baml
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\StyleGeneralCustomizado.baml
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleGeneralCustomizado.baml
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleGrilla.baml
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\Resources\Styles\StyleScrollGrilla.baml
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\CSANPABLO_custom.g.cs
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\AREAS\CSANPABLO\VerContrato.g.cs
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\GUIusuario.g.cs
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Walter\Desktop\Escritorio\workspace san pablo - copia\workspace san pablo 22-04-16 ultimo_final\aplicacionCSANPABLO\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
